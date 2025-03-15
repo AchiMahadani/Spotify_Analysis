@@ -1,4 +1,4 @@
-# 🎵 Spotify Analysis - Power BI Dashboard
+# 🎵 Spotify Analysis - Power BI Dashboard 
 
 ## 📌 Overview
 This project analyzes Spotify listening habits using **Power BI**. It provides insights into album, artist, and track preferences, along with platform distribution and listening patterns over time.
