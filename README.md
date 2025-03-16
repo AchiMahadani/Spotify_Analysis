@@ -44,4 +44,4 @@ This project analyzes Spotify listening habits using **Power BI**. It provides i
 Special thanks to **Spotify** for providing the data .
 
 ---
-🔗 **Follow me on GitHub**: [Your GitHub Profile](https://github.com/AchiMahadani)
+🔗 **Follow me on GitHub**: [GitHub Profile](https://github.com/AchiMahadani)
